@@ -15,15 +15,18 @@ body {
     color: #ffffff;
 }
 
+/*This controls the placement and font size of the 'Horiseon' title*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*This controls the color of 'seo' in the title*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*This section controls the header navigation links*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/*This controls the placement of the header/banner image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     background-position: center;
 }
 
+/*This controls the placement of the pictures within each content section*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +74,14 @@ p {
     margin-left: 25px;
 }
 
+/*This controls the placement of the content boxes*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*This controls the placement of the right benefits box*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,54 +93,24 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/*This section styles each point in the right side benefits container */
+.benefit-bullet {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit-bullet h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefit-bullet img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/*This section controls our containers for Search Engine Optiomization and Social Media Marketing*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +165,7 @@ p {
     font-size: 36px;
 }
 
+/*This is our footer styling*/
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +173,7 @@ p {
     text-align: center;
 }
 
+/*Controls the size of the second text row in the footer*/
 .footer h2 {
-    font-size: 20px;
+    font-size: 20px; 
 }
