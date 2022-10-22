@@ -20,7 +20,8 @@ Github repo link [link]
 - HTML and CSS code is updated to provide semantic elements in code for easier and quicker navigation and understanding. 
 - Comments also left throughout HTML and CSS to help other contributors to better understand sections of the code and what each section does.
 
-Example Screenshot (assets/images/screenshots/tba.png)
+Example Screenshot of HTML comments (assets/images/screenshots/html-comments.png)
+Example Screenshot of CSS comments (assets/images/screenshots/css-comments.png)
 
 ## Credits
 
