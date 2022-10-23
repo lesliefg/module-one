@@ -9,12 +9,12 @@ Starter code provided, needed to have semantic elements add into HTML and needed
 
 ## Installation
 
-- No downloads necessary, follow link to open webpage and interact with live page [link]
+- No downloads necessary, follow link to open webpage and interact with live page [https://lesliefg.github.io/module-one/]
 - Or follow this link to repo to view code and comments [https://github.com/lesliefg/module-one]
 
 ## Usage
 
-Live webpage link provided [link]
+Live webpage link provided [https://lesliefg.github.io/module-one/]
 Github repo link [https://github.com/lesliefg/module-one]
 
 - HTML and CSS code is updated to provide semantic elements in code for easier and quicker navigation and understanding. 
@@ -32,16 +32,6 @@ Starter code provided by Xander Rapstine Github profile [https://github.com/Xand
 Please refer to the LICENSE in the repo.
 
 ## Features
-<!--Do we need?-->
-TBA
-
-## How to Contribute
-<!--Do we need?-->
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-<!--Do we need?-->
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-Now fill in the details as much as you can, referring to the following tips as you go:
+- Semantic elements in HTML code for easier reading
+- HTML comments in <!--These brackets--> for better unstanding of each section 
+- CSS comments in /*These Brackets*/ for easier understanding the styling sections
