@@ -10,12 +10,12 @@ Starter code provided, needed to have semantic elements add into HTML and needed
 ## Installation
 
 No downloads necessary, follow link to open webpage and interact with live page [link]
-Or follow this link to repo to view code and comments [link]
+Or follow this link to repo to view code and comments [https://github.com/lesliefg/module-one]
 
 ## Usage
 
 Live webpage link provided [link]
-Github repo link [link]
+Github repo link [https://github.com/lesliefg/module-one]
 
 - HTML and CSS code is updated to provide semantic elements in code for easier and quicker navigation and understanding. 
 - Comments also left throughout HTML and CSS to help other contributors to better understand sections of the code and what each section does.
