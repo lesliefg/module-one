@@ -9,8 +9,8 @@ Starter code provided, needed to have semantic elements add into HTML and needed
 
 ## Installation
 
-No downloads necessary, follow link to open webpage and interact with live page [link]
-Or follow this link to repo to view code and comments [https://github.com/lesliefg/module-one]
+- No downloads necessary, follow link to open webpage and interact with live page [link]
+- Or follow this link to repo to view code and comments [https://github.com/lesliefg/module-one]
 
 ## Usage
 
