@@ -38,5 +38,5 @@ Please refer to the LICENSE in the repo.
 
 ## Screenshots of finished and deployed webpage
 ![alt text](assets/images/screenshots/Deployed-Website-1.png)
-![alt text](assets/images/screenshots/Deployed-Website-2.png)
+![alt text](assets/images/screenshots/Deployed-website-2.png)
 ![alt text](assets/images/screenshots/Deployed-Website-3.png)
