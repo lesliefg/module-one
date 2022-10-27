@@ -35,3 +35,8 @@ Please refer to the LICENSE in the repo.
 - Semantic elements in HTML code for easier reading
 - HTML comments in <!--These brackets--> for better unstanding of each section 
 - CSS comments in /*These Brackets*/ for easier understanding the styling sections
+
+## Screenshots of finished and deployed webpage
+![alt text](assets/images/screenshots/Deployed-Website-1.png)
+![alt text](assets/images/screenshots/Deployed-Website-2.png)
+![alt text](assets/images/screenshots/Deployed-Website-3.png)
