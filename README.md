@@ -22,6 +22,7 @@ Github repo link [https://github.com/lesliefg/module-one]
 
 * Example Screenshot of HTML comments ![alt text](assets/images/screenshots/html-comments.png)
 * Example Screenshot of CSS comments ![alt text](assets/images/screenshots/css-comments.png)
+* Example Screenshots of deployed webpage are at the bottom of the README
 
 ## Credits
 
